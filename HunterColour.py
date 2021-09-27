@@ -31,4 +31,4 @@ if userIn == 'White':
 if userIn == 'Purple':
     print('psychedelic')
 else:
-    print('unoriginal bro...')
+    print('unoriginal bro...') #Insults the user everytime!!!
