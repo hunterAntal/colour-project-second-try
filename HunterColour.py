@@ -21,3 +21,14 @@ if userIn == 'Silver':
 
 if userIn == 'Teal': 
     print ("Just say light blue idiot.")
+
+if userIn == 'Black':
+    print('Best coffee')
+if userIn == 'Brown':
+    print('Chocolate')
+if userIn == 'White':
+    print('okay buddy...')
+if userIn == 'Purple':
+    print('psychedelic')
+else:
+    print('unoriginal bro...')
